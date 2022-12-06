@@ -1,0 +1,6 @@
+One of the commands to end a script in Python is...
+kill()
+end()
+stop()
+terminate()
+quit()
